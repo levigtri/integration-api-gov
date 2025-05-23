@@ -1,8 +1,8 @@
 # Comparativo de LLMs utilizadas:
 
-### Prompts de pedido do Plugin
+## Prompts de pedido do Plugin
 
-##Chatgpt:
+## Chatgpt:
 [https://chatgpt.com/share/68235ff9-f00c-8005-a1f9-05376c597320](https://chatgpt.com/share/68235ff9-f00c-8005-a1f9-05376c597320)
 - Tem recurso de compartilhar conversa.
 ---
